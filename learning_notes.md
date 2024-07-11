@@ -20,3 +20,29 @@ cloud GPU and how does it differ from a traditional GPU deployment
 Personal insights or reflections:
 
 I knew the basic info on Gpu but reading this it nice to know the difference how a gpu works both externally and internally
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+What Is a Motherboard?
+
+https://www.spiceworks.com/tech/hardware/articles/what-is-motherboard/
+
+The article goes over What is the motherborad, it parts and the many different type of motherborads
+
+Keypoints:
+
+main functions of a motherboard
+
+different types of motherboards
+
+key components of a motherboard
+
+How a motherboard manage data flow and communication between computer components
+
+How a motherboard optimize power distribution and conserve resources
+
+Personal insights or reflections:
+
+Already knew that the mother borad was the body of the coumpter but i didnt know that they were many different types
+i only new of the two ATX and Mini ATX. it was also interesting in how the motherborad manages data like with the cpu.
+
