@@ -1,3 +1,7 @@
+
+
+
+
 =====================================================================
 
 Part 2
@@ -24,3 +28,8 @@ Accessibility: while this can be seen as an advantage not having the the equipme
 
 Accuracy: the sim is a teaching tool for beginner so a lot of whats being shown is dumb down to the basic info to get an idea of what its happening
 
+Comparison with Traditional Tools:
+
+The traditional tool i will compare emulsiV to is a digram on paper. emilsiV compared to a normal digram is far superior with the sim you are able to see how the process works, with the digram it would show each of the parts and what it does.
+with the digram it will give you the run down of the what the step by step process will be, the sim will show you how it works. you can also edit the speed in which it does so, turn the aniamtions to see where each of the data is heading. Also 
+the sim will give you muitple examples it could run, giving you different ways it runs.
