@@ -12,6 +12,7 @@ Disadvantages:
  Slow Simulation: Some simulations could take either hours or even days to complete, reasoning being complexity of modern microarchitectures that are simulated and the length of today’s programs, consisting of billions and trillions of instructions
 
  Accuracy: the results of the simulations can be skew if the simulation doesnt not act properly. modeling errors, specifitcations errors and abstraction errors.
+ 
 =====================================================================
 
 Part 2
