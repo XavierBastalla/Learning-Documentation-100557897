@@ -1,3 +1,11 @@
+Part 1
+Summary:
+
+The website go over the use of many comupter architecture Simulation techniques and tool for resreach and other purposes. They go over gem5, Multi2sim, MARSS×86, PTLsim, Sniper, and ZSim. showing off each one
+characteristics and experimental error comparison. The main goal with is ategorizing, analyzing and comparing various computer architecture simulators, in doing so it would help whoever is using the simulation
+use case of each of them. Also within the artcle they set up each of the sim to closly mimic Haswell design, they did this to see if they could mimic the real world results. With this they were able to find 
+issues and accuracy of each of the simulators.
+
 
 
 
