@@ -19,7 +19,8 @@ Disadvantages:
  
 Application:
 
-How these can be applied to our course activities is 
+How these can be applied to our course activities is to test outcomes that are mention in out course work. What i mean by this is say a specific action will produce this result we can replicate it and see what how the data is be transfered and following 
+the set instuctions. From here and can edit it / change certian data to see what the result may procude. The main goal is to give a visual aid to see how it works.
 
 =====================================================================
 
@@ -59,3 +60,15 @@ The goal of this hypothetical project is to see if the user is able to predicit 
 how emulsiV is can help with this is since it show step by step what is being processed it will show the user what is being done to achive the end goal
 Also since it does have exmaples buildt in we could use those to gain the base idea and extend it from there.
 
+References:
+
+
+https://riscv.org/news/2020/06/emulsiv-a-visual-simulator-for-teaching-computer-architecture-using-the-risc-v-instruction-set-guillaume-savation/
+
+https://eseo-tech.github.io/emulsiV/doc/
+
+https://github.com/ESEO-Tech/emulsiV
+
+https://www.javatpoint.com/advantages-and-disadvantages-of-simulation#:~:text=A%20simulation%20is%20a%20valuable,is%20its%20lack%20of%20precision.
+
+https://github.com/riscv/learn
