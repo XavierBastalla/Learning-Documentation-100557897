@@ -6,6 +6,10 @@ characteristics and experimental error comparison. The main goal with is ategori
 use case of each of them. Also within the artcle they set up each of the sim to closly mimic Haswell design, they did this to see if they could mimic the real world results. With this they were able to find 
 issues and accuracy of each of the simulators.
 
+Advantages: 
+Detailed sim: Showing detailed info about what it happen within the sim. this will allow user to know what it happening in real time
+Educational: since each of the sims is a beignnger friendly they have tool to show the user what is happening and exaplian the process
+mutiple examples: There are many different types of sims that you are able to chose from with their own exaples
 
 Disadvantages: 
 
