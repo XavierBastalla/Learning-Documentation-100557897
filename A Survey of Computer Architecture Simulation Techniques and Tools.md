@@ -17,6 +17,10 @@ Disadvantages:
 
  Accuracy: the results of the simulations can be skew if the simulation doesnt not act properly. modeling errors, specifitcations errors and abstraction errors.
  
+Application:
+
+How these can be applied to our course activities is 
+
 =====================================================================
 
 Part 2
@@ -48,3 +52,10 @@ Comparison with Traditional Tools:
 The traditional tool i will compare emulsiV to is a digram on paper. emilsiV compared to a normal digram is far superior with the sim you are able to see how the process works, with the digram it would show each of the parts and what it does.
 with the digram it will give you the run down of the what the step by step process will be, the sim will show you how it works. you can also edit the speed in which it does so, turn the aniamtions to see where each of the data is heading. Also 
 the sim will give you muitple examples it could run, giving you different ways it runs.
+
+Practical Application:
+
+The goal of this hypothetical project is to see if the user is able to predicit what would be the out of when a process is finish ( a form of teaching them)
+how emulsiV is can help with this is since it show step by step what is being processed it will show the user what is being done to achive the end goal
+Also since it does have exmaples buildt in we could use those to gain the base idea and extend it from there.
+
