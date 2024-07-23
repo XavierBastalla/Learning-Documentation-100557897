@@ -70,3 +70,13 @@ Hence the GPU also needed to be upgrade, but as the years went by the GPU didnt 
 Frame buffering, load balancing have increased and to a degree scalability, while having the need for mutiple Gpu is no longer required. how this will have a potential impact on future developments is i believe where we wont need a card for a gpu and we
 can just relay on the gpu in the cpu to do the the task that requires for image and video data. We have already starting to see that, there have been Cpu's that are being compared score wise to Nividas 1050 series and up cards.
 
+------------------------------------------------------------------------------------------------------------------------
+
+Personal Insights
+=
+
+Before going into the patent grew up with progess of the comupters, so i had some idea of what was going on the GPU in both its own card and in the CPU. After reading the patent i realize i had very little idea of what was going on. For exmaple i knew that if i had 
+a second Gpu i could "run" games better but never why. Now i do knowing that it would assgin different workload to both Gpu to make it easier to render the data, and omptimizie it so that i wouldnt see it in games. Other exmaple when i would see the game lag (the image would stop
+then catch up) i was wondering what was happening, now i know it was one propbly the workload was either to much for the gpu / gpus to omptimize properly or two the frame buffer was not working. Going thought the patent has opened my eyes to see how far we have come campred to 2006.
+seeing what they had to come up with inorder to get the job done, while today we just take for granted. Most is not all the workload can be done all in one Gpu while before if you wanted a nicer experincace you needed to have Two or more Gpu and if you only had one you could get away 
+with it depending on the workload. Overall i have enjoyed learning how they got around certian problems where scalability was a key facotr for this petant and having a second Gpu help take workload off the first Gpu. Omptimiziing it in a way where the user could not tell.
