@@ -64,4 +64,9 @@ Adaptability to Different Workloads
 Analysis
 =
 
-How this pentant has effectived the current computer architecture 
+How this pentant has effectived the current computer architecture is how much Gpus and render the image and video data. Over the year technologies has adavanated so much that we are starting to see application that look like they are real life
+(exmaple of a game called unrecord that uses the unreal ENGINE 5: https://www.youtube.com/watch?v=7rtWDd-YWZ0)
+Hence the GPU also needed to be upgrade, but as the years went by the GPU didnt need a second gpu to help with the huge workload. Within the pentent the key compents and technologies have been improved to a great to degree today but some were left behind.
+Frame buffering, load balancing have increased and to a degree scalability, while having the need for mutiple Gpu is no longer required. how this will have a potential impact on future developments is i believe where we wont need a card for a gpu and we
+can just relay on the gpu in the cpu to do the the task that requires for image and video data. We have already starting to see that, there have been Cpu's that are being compared score wise to Nividas 1050 series and up cards.
+
