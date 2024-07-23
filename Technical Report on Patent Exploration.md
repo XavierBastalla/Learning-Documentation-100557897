@@ -80,3 +80,12 @@ a second Gpu i could "run" games better but never why. Now i do knowing that it 
 then catch up) i was wondering what was happening, now i know it was one propbly the workload was either to much for the gpu / gpus to omptimize properly or two the frame buffer was not working. Going thought the patent has opened my eyes to see how far we have come campred to 2006.
 seeing what they had to come up with inorder to get the job done, while today we just take for granted. Most is not all the workload can be done all in one Gpu while before if you wanted a nicer experincace you needed to have Two or more Gpu and if you only had one you could get away 
 with it depending on the workload. Overall i have enjoyed learning how they got around certian problems where scalability was a key facotr for this petant and having a second Gpu help take workload off the first Gpu. Omptimiziing it in a way where the user could not tell.
+
+------------------------------------------------------------------------------------------------------------------------
+
+References
+=
+
+https://patents.google.com/patent/US20080030510A1/en
+
+(https://www.youtube.com/watch?v=7rtWDd-YWZ0)
